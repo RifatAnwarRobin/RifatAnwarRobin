@@ -1,6 +1,6 @@
 ## Hi there, I'm Rifat Anwar Robin
 
-## Story Of Life After Completing Graduation Till 2023
+## Story Of Life After Completing Graduation Till 2024
 
 - ⚡ 2021 Beginning: Completed Graduation as a Computer Science & Engineering student from Daffodil International University
 - ⚡ 2021 Mid      : Got My First Job as a Django Web Developer
