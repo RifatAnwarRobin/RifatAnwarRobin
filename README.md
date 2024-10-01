@@ -12,7 +12,7 @@
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rifat-anwar-robin/)
 [![Another Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RifatRobin)
-#### The linked Github here is my previous account that GitHub has flagged and they haven't responded to my support ticket yet :(
+#### The **linked GitHub** here is my previous account that GitHub has flagged and they haven't responded to my support ticket yet :(
 ---
 ### 🚀 About Me
 ### Odoo Developer | Full Stack Developer | Python Enthusiast | ML/AI Explorer
@@ -27,11 +27,11 @@ I’m a passionate Odoo developer with over 3 years of experience working at **M
 
 I consider myself a **full-stack developer**, proficient in technologies such as:
 - **Frontend**: XML, QWeb, HTML, CSS, Saas, JavaScript, OWL, Reactpy, Php
-- **Backend & Platform**: Python, Odoo, JavaScript, Django, Fastapi,XMLRPC
+- **Backend & Platform**: Python, Odoo, JavaScript, Django, Fastapi, XMLRPC
 - **Data Science & ML**: Passionate about data-driven solutions, currently building a **recommendation engine** for an e-commerce platform using machine learning.
-- **Automation & Exploration**: Always on the lookout for creative ideas related to **automation using Python** and love to experiment with innovative solutions.
+- **Automation & Exploration**: Always looking for creative ideas related to **automation using Python** and love experimenting with innovative solutions.
 
-I have a creative edge in **UI/UX design**, leveraging tools like **Adobe XD** for intuitive user experiences and mastering graphic design with **Adobe Photoshop**, **Illustrator**, and **Premiere Pro**.
+#### I have a creative edge in **UI/UX design**, leveraging tools like **Adobe XD** for intuitive user experiences and mastering graphic design with **Adobe Photoshop**, **Illustrator**, and **Premiere Pro**.
 ---
 
 # 💻 Tech Stack:
