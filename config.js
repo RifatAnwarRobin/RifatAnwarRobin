@@ -5,7 +5,7 @@ const config = {
     github: "RifatAnwarRobin",
     linkedin: "rifat-anwar-robin", 
     streamlit: "https://share.streamlit.io/user/rifatanwarrobin",
-    pypi: "Rhttps://pypi.org/user/rifat-anwar/",
+    pypi: "https://pypi.org/user/rifat-anwar/",
     lastUpdated: "2025-04-27 1:20 UTC",
     
     // Theme colors
