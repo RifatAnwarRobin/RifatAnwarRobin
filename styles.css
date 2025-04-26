@@ -458,7 +458,7 @@ footer {
 .time-display {
     position: fixed;
     bottom: 0;
-    left: 50px;
+    left: 320px;
     z-index: 90;
     font-size: 12px;
     /* color: var(--text-light); */
