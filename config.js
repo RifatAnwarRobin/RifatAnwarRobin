@@ -75,7 +75,7 @@ const config = {
         {
             title: "Number to Words Converter Library",
             description: "Created a Python library to convert numerical amounts into words following Bangladeshi and Indian numeric systems (lakh, crore).",
-            technologies: ["Python", "num2words"],
+            technologies: ["Python", "PyPI","num2words"],
             github: "https://github.com/RifatAnwarRobin/num2words-BD-INR",
             live: "https://pypi.org/project/num2words-BD-INR/"
         },
