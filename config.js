@@ -6,7 +6,7 @@ const config = {
     linkedin: "rifat-anwar-robin", 
     streamlit: "https://share.streamlit.io/user/rifatanwarrobin",
     pypi: "Rhttps://pypi.org/user/rifat-anwar/",
-    lastUpdated: "2025-04-26 12:06:36",
+    lastUpdated: "2025-04-27 1:20 UTC",
     
     // Theme colors
     colors: {
