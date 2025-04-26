@@ -119,7 +119,7 @@ class PortfolioApp {
         projectsGrid.innerHTML = config.projects.map(project => `
             <div class="project-card">
                 <div class="project-header">
-                    <i class="fas fa-folder project-folder"></i>
+                    ${project.title ? `<i class="fas fa-folder project-folder"></i>` : ''}
                     <div class="project-links">
                         ${project.github ? `<a href="${project.github}" target="_blank" aria-label="GitHub repository"><i class="fab fa-github"></i></a>` : ''}
                         ${project.live ? `<a href="${project.live}" target="_blank" aria-label="Live project"><i class="fas fa-external-link-alt"></i></a>` : ''}

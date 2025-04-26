@@ -106,6 +106,13 @@ const config = {
             technologies: ["Python", "Machine Learning", "Data Mining"],
             github: "",
             live: ""
+        },
+        {
+            title: "",
+            description: "There Are Some Other Projects That I Have Done, But I Can't Share Them Here Due to Company Policy.",
+            technologies: ["Python", "Machine Learning", "Odoo", "Web Scraping", "Data Manipulation", "Report Engine", "Recommender System", "Business Automation"],
+            github: "",
+            live: ""
         }
     ],
 
