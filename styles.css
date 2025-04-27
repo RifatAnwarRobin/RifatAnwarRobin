@@ -482,7 +482,7 @@ body.light-theme {
     --nav-bg: rgba(255, 255, 255, 0.9);
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .nav-links {
         position: fixed;
         top: 70px;
