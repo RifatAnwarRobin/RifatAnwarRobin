@@ -66,28 +66,28 @@ const config = {
 
     projects: [
         {
-            title: "Image Processing Tool",
+            title: "Image Processing Tool(In Streamlit)",
             description: "Developed a tool for background removal and image manipulation with advanced features like alpha matting, flipping, and resizing with a specific ratio.",
             technologies: ["Python", "Streamlit", "Pillow"],
             github: "https://github.com/RifatAnwarRobin/image_background_remover",
             live: "https://removebg-by-rifat.streamlit.app/"
         },
         {
-            title: "Number to Words Converter Library",
+            title: "Number to Words Converter Library on PyPI",
             description: "Created a Python library to convert numerical amounts into words following Bangladeshi and Indian numeric systems (lakh, crore).",
             technologies: ["Python", "PyPI","num2words"],
             github: "https://github.com/RifatAnwarRobin/num2words-BD-INR",
             live: "https://pypi.org/project/num2words-BD-INR/"
         },
         {
-            title: "Python Decorator Library",
+            title: "Python Decorator Library on PyPI",
             description: "Published a Python decorator on PyPI to ignore the interpretation of any function and treat it as a commented code.",
             technologies: ["Python", "PyPI", "Decorators"],
             // github: "https://github.com/RifatAnwarRobin/python-decorator",
             live: "https://pypi.org/project/function-comment/"
         },
         {
-            title: "Automated DB Backup Solution",
+            title: "Automated DB Backup Solution and Restoration System of odoo onpremises",
             description: "Designed an automated SQL backup and restoration system using Bash scripting for enhanced data security and management.",
             technologies: ["Bash", "PostgreSQL"],
             github: "https://github.com/RifatAnwarRobin/odoo-scripts",
@@ -109,7 +109,7 @@ const config = {
         },
         {
             title: "",
-            description: "There Are Some Other Projects That I Have Done, But I Can't Share Them Here Due to Company Policy.",
+            description: "There Are Many More That I Have Done, However, I Can't Share Them Here Due to Company Policy.",
             technologies: ["Python", "Machine Learning", "Odoo", "Web Scraping", "Data Manipulation", "Report Engine", "Recommender System", "Business Automation"],
             github: "",
             live: ""
