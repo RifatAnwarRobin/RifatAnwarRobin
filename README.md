@@ -1,26 +1,14 @@
-## Hi there, I'm Rifat Anwar Robin
-
-## Story Of Life After Completing Graduation Till 2025
-
-- ⚡ 2021 Beginning: Completed Graduation as a Computer Science & Engineering student from Daffodil International University
-- ⚡ 2021 Mid      : Got My First Job as a Django Web Developer
-- ⚡ 2021 End      : Left the job as the schedule was not matching due to a remote job
-- ⚡ 2022 Beginning: Got my 2nd & current job as a Jr. Odoo Backend Developer (Python)
-- ⚡ 2023 Mid      : Got promoted as Odoo Backend Developer (Python)
-- ⚡ 2024 Mid      : Remained as Odoo Backend Developer (Python) and utilized my ML/AI Knowledge to achieve my goals.
-- ⚡ 2025 Start    : Promoted Senior Software Engineer and Odoo backend Developer(Python) and strengthening ML/AI Knowledge to achieve my goals.
+## Hi there, I'm Rifat Anwar
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rifat-anwar-robin/)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rifatanwarrobin)
 ---
 ## 🚀 About Me
-### Odoo Developer | Full Stack Developer | Python Enthusiast | ML/AI Explorer
-
+###  ML/AI/Data Science| Python | Full Stack Developer
 - 🔭 Have some goals for the new generation
 - 🌱 Learning things 
 - 👯 Looking for people with whom I can learn more
-- 🤣 Fun fact: I love drawing / gaming / watching anime
 
 ---
 I’m a passionate Odoo developer with over 3 years of experience working at **Metamorphosis Ltd**, where I've honed my skills in building and customizing ERP solutions. Previously, I worked as a Django developer for 6 months at **Itqan**, adding valuable backend development experience to my toolkit.
@@ -28,7 +16,7 @@ I’m a passionate Odoo developer with over 3 years of experience working at **M
 I consider myself a **full-stack developer**, proficient in technologies such as:
 - **Frontend**: XML, QWeb, HTML, CSS, SASS, JavaScript, OWL, Reactpy, PHP
 - **Backend & Platform**: Python, Odoo, JavaScript, Django, FastAPI, XMLRPC
-- **Data Science & ML**: Passionate about data-driven solutions, currently building a **recommendation systems** using machine learning.
+- **Data Science & ML**: Has experience with PowerBI. Passionate about data-driven solutions, currently building a **recommendation systems** using machine learning.
 - **Automation & Exploration**: Always looking for creative ideas related to **automation using Python** and love experimenting with innovative solutions.
 
 #### I have a creative edge in **UI/UX design**, leveraging tools like **Adobe XD** for intuitive user experiences and mastering graphic design with **Adobe Photoshop**, **Illustrator**, and **Premiere Pro**.
