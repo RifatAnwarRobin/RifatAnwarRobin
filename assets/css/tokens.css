@@ -1,0 +1,52 @@
+/* ============================================================
+   tokens.css — design tokens (single source for theme values)
+   Palette: warm-deep ink + iris (ML/neural) + amber accent.
+   Deliberately avoids the navy/mint developer-template look.
+   ============================================================ */
+
+:root {
+  /* Surfaces */
+  --ink:        #0E0D12;   /* page background, warm near-black */
+  --surface:    #16151D;   /* raised panels */
+  --surface-2:  #1E1C28;   /* cards / inputs */
+  --line:       rgba(255, 255, 255, 0.08);
+  --line-2:     rgba(255, 255, 255, 0.14);
+
+  /* Text */
+  --text:       #ECEAF2;
+  --muted:      #9A96AC;
+  --dim:        #6E6A80;
+
+  /* Accents */
+  --iris:       #8A7BFF;                    /* primary: links, signature */
+  --iris-700:   #6E5CF0;
+  --iris-soft:  rgba(138, 123, 255, 0.14);
+  --iris-line:  rgba(138, 123, 255, 0.30);
+  --amber:      #F2B65A;                    /* secondary: eyebrows, emphasis */
+
+  /* Typography */
+  --ff-display: "Space Grotesk", system-ui, sans-serif;
+  --ff-body:    "Inter", system-ui, -apple-system, sans-serif;
+  --ff-mono:    "JetBrains Mono", ui-monospace, "SF Mono", monospace;
+
+  --fs-eyebrow: 0.78rem;
+  --fs-body:    1.02rem;
+  --fs-lead:    1.22rem;
+
+  /* Layout */
+  --wrap:       1160px;
+  --gutter:     clamp(1.25rem, 4vw, 3rem);
+
+  /* Radii */
+  --r-sm: 8px;
+  --r-md: 14px;
+  --r-lg: 22px;
+
+  /* Motion */
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --t-fast: 0.18s var(--ease);
+  --t-med:  0.4s  var(--ease);
+
+  /* Elevation */
+  --shadow: 0 18px 50px -28px rgba(0, 0, 0, 0.9);
+}

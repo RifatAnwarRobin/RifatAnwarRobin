@@ -1,175 +1,183 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Rifat Anwar - Senior Python Odoo Developer Portfolio">
-    <title>Rifat Anwar | Senior Python Odoo Developer | Machine Learning | Data Science | Business Automation</title>
-    <link rel="icon" type="image" href="./image/bug.png"/>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-    <link rel="stylesheet" href="./styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Rifat Anwar — Python &amp; Machine Learning Engineer</title>
+  <meta name="description" content="Rifat Anwar — Python developer with 3+ years building production backend and ERP systems, now focused on data pipelines, APIs and ML services. MSc Artificial Intelligence, London." />
+  <meta name="author" content="Rifat Anwar" />
+
+  <!-- Open Graph / social -->
+  <meta property="og:type" content="profile" />
+  <meta property="og:title" content="Rifat Anwar — Python &amp; Machine Learning Engineer" />
+  <meta property="og:description" content="Python developer building toward AI engineering: data pipelines, APIs and ML services. MSc AI, London." />
+  <meta property="og:image" content="https://avatars.githubusercontent.com/u/182919749?v=4" />
+  <meta name="twitter:card" content="summary" />
+
+  <link rel="icon" href="assets/img/brain.ico" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <!-- Styles (cascade order matters: tokens → base → layout → components) -->
+  <link rel="stylesheet" href="assets/css/tokens.css" />
+  <link rel="stylesheet" href="assets/css/base.css" />
+  <link rel="stylesheet" href="assets/css/layout.css" />
+  <link rel="stylesheet" href="assets/css/components.css" />
 </head>
-<body class="dark-theme">
-    <!-- Theme Toggle -->
-    <!-- <div class="theme-toggle">
-        <button id="themeToggle" aria-label="Toggle theme">
-            <i class="fas fa-sun"></i>
-        </button>
-    </div> -->
 
-    <!-- Time Display -->
-    <!-- <div class="time-display">
-        <i class="far fa-clock"></i>
-        <span id="currentTime">2025-03-08 10:34:54 UTC</span>
-    </div> -->
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
 
-    <!-- Loading Animation -->
-    <div id="loader" class="loader">
-        <div class="loader-content">
-            <i class="fas fa-code"></i>
-        </div>
+  <!-- ───────────────────────── Nav ───────────────────────── -->
+  <header class="nav" id="nav">
+    <div class="wrap nav__inner">
+      <a class="nav__brand" href="#top" aria-label="Rifat Anwar — home">
+        <span class="nav__mark" aria-hidden="true">RA</span>
+        <span class="nav__name">Rifat Anwar</span>
+      </a>
+
+      <nav class="nav__links" id="navLinks" aria-label="Primary">
+        <a href="#work">Work</a>
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+        <a class="btn btn--ghost btn--sm" href="cv_rifat.pdf" target="_blank" rel="noopener">CV</a>
+      </nav>
+
+      <button class="nav__toggle" id="navToggle" aria-label="Open menu" aria-expanded="false" aria-controls="navLinks">
+        <span></span><span></span><span></span>
+      </button>
     </div>
+  </header>
 
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <nav>
-                <div class="logo">
-                    <div>
-                        <a href="https://rifatanwarrobin.github.io/RifatAnwarRobin/">
-                            <i class="fas fa-terminal"></i>
-                            <!-- <span class="logo-icon">➤</span> -->
-                            <span>RA</span>
-                        </a>
-                    </div>
-                    <!-- <div class="time-display">
-                        <i class="far fa-clock"></i>
-                        <span id="currentTime">2025-03-08 10:34:54 UTC</span>
-                    </div> -->
-                </div>
-                <ul class="nav-links" id="navLinks">
-                    <li><a href="#about"><i class="fas fa-user"></i> About</a></li>
-                    <li><a href="#skills"><i class="fas fa-laptop-code"></i> Skills</a></li>
-                    <li><a href="#experience"><i class="fas fa-briefcase"></i> Experience</a></li>
-                    <li><a href="#projects"><i class="fas fa-code-branch"></i> Projects</a></li>
-                    <li><a href="#education"><i class="fas fa-graduation-cap"></i> Education</a></li>
-                    <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
-                    <li><a href="./cv_rifat.pdf" class="resume-btn" target="_blank"><i class="fas fa-file-alt"></i> Resume</a></li>
-                </ul>
-                <div class="theme-toggle">
-                    <button id="themeToggle" aria-label="Toggle theme">
-                        <i class="fas fa-sun"></i>
-                    </button>
-                </div>
-                <div class="hamburger" id="hamburger">
-                    <i class="fas fa-bars"></i>
-                </div>
-            </nav>
-        </div>
-    </header>
+  <main id="main">
+    <span id="top"></span>
 
-    <!-- Hero Section -->
-    <br/>
-    <section class="hero">
-        <div class="container">
-            <div class="hero-content">
-                <p class="hero-subtitle">Hello, my name is</p>
-                <h1 class="hero-title">Rifat Anwar.</h1>
-                <h2 class="hero-title" style="color: var(--text-light); font-size: 45px;">I customize and develop solutions for Odoo. Also, have knowledge about Machine Learning.</h2>
-                <p class="hero-description">
-                    I'm a Senior Odoo Developer specializing in building custom Odoo developments, solutions and optimizing business processes. 
-                    Currently, I'm focused on developing enterprise-grade applications at Metamorphosis Ltd and working on my won Machine Learning Projects.
-                </p>
-                <a href="#contact" class="cta-button">Get In Touch</a>
-            </div>
+    <!-- ───────────────────────── Hero ───────────────────────── -->
+    <section class="hero" aria-labelledby="hero-title">
+      <canvas class="hero__field" id="neuralField" aria-hidden="true"></canvas>
+      <div class="wrap hero__inner">
+        <p class="eyebrow">Python · Machine Learning · Backend</p>
+        <h1 class="hero__title" id="hero-title">
+          Engineering the path from <span class="accent">data</span> to <span class="accent">deployed&nbsp;AI</span>.
+        </h1>
+        <p class="hero__lead">
+          I'm Rifat Anwar — a Python developer with 3+ years building production ERP and backend
+          systems, now focused on the data pipelines, APIs and ML services behind real AI products.
+          Currently completing an MSc in Artificial Intelligence in London.
+        </p>
+
+        <div class="hero__meta">
+          <span class="status"><span class="status__dot"></span> Open to AI/ML &amp; backend roles · UK</span>
+          <span class="hero__loc">East London, United Kingdom</span>
         </div>
+
+        <div class="hero__cta">
+          <a class="btn btn--solid" href="#work">View projects</a>
+          <a class="btn btn--ghost" href="mailto:rifatanwarrobin@gmail.com">Email me</a>
+          <a class="btn btn--ghost" href="https://github.com/RifatAnwarRobin" target="_blank" rel="noopener">GitHub</a>
+        </div>
+      </div>
     </section>
 
-    <!-- About Section -->
-    <section id="about" style='margin:0;padding:0;'>
-        <div class="container">
-            <h2 class="section-title"><i class="fas fa-user"></i> About Me</h2>
-            <div class="about-content">
-                <div class="about-text">
-                    <p>Hello! I'm Rifat, a dedicated Computer Science professional with a passion for Odoo development and ML/data science. My journey in software development began during my studies at Daffodil International University, where I developed a strong foundation in Computer Science.</p>
-                    <p>Fast forward to today, I've had the privilege of working at various companies, building robust solutions and gaining diverse experience in the field.</p>
-                    <div id="githubStats" class="github-stats">
-                        <!-- GitHub stats will be inserted here by JavaScript -->                        
-                    </div>
-                </div>
-            </div>
+    <!-- ───────────────────────── About ───────────────────────── -->
+    <section class="section" id="about" aria-labelledby="about-title">
+      <div class="wrap section__grid">
+        <div class="section__aside">
+          <p class="eyebrow">01 — About</p>
+          <h2 class="section__title" id="about-title">Backend foundations,<br />AI direction.</h2>
         </div>
-    </section>
-    
-    
-    <!-- Skills Section -->
-    <section id="skills" style='margin:0;padding:50px;'>
-        <div class="container">
-            <h2 class="section-title"><i class="fas fa-laptop-code"></i> Skills & Technologies</h2>
-            <div class="skills-grid" id="skillsGrid"></div>
+        <div class="section__body prose">
+          <p>
+            I spent three years at an ERP company architecting and shipping custom modules in
+            Python and PostgreSQL — automating multi-stage approval workflows, inventory tracking
+            and reporting for real businesses. That work taught me the unglamorous half of AI
+            engineering: clean data models, reliable pipelines and systems that keep running after
+            launch.
+          </p>
+          <p>
+            Now I'm pointing that foundation at machine learning. Through my MSc I'm working across
+            the stack that turns a model into a product — feature pipelines, evaluation, FastAPI
+            services and deployment — and building it in the open where I can.
+          </p>
+
+          <ul class="stats" aria-label="Highlights">
+            <li><span class="stats__num">3+ yrs</span><span class="stats__label">production Python</span></li>
+            <li><span class="stats__num">2</span><span class="stats__label">packages on PyPI</span></li>
+            <li><span class="stats__num">MSc AI</span><span class="stats__label">Northumbria · 2026</span></li>
+          </ul>
         </div>
+      </div>
+
+      <!-- Skills render here -->
+      <div class="wrap">
+        <div class="skills" id="skills" aria-label="Skills"></div>
+      </div>
     </section>
 
-    <!-- Experience Section -->
-    <section id="experience" style='margin:0;padding:50px;'>
-        <div class="container">
-            <h2 class="section-title"><i class="fas fa-briefcase"></i> Where I've Worked</h2>
-            <div class="experience-container" id="experienceContainer"></div>
-        </div>
-    </section>
-    
-    <!-- Projects Section -->
-    <section id="projects" style='margin:0;padding:50px;'>
-        <div class="container">
-            <h2 class="section-title"><i class="fas fa-code-branch"></i> Things I've Built</h2>
-            <div class="projects-grid" id="projectsGrid"></div>
-        </div>
-    </section>
-    
-
-    <section id="education" style='margin:0;padding:50px;'>
-        <div class="container">
-            <h2 class="section-title"><i class="fas fa-graduation-cap"></i> Education</h2>
-            <div class="education-grid" id="educationGrid"></div>
-        </div>
+    <!-- ───────────────────────── Work / Projects ───────────────────────── -->
+    <section class="section section--alt" id="work" aria-labelledby="work-title">
+      <div class="wrap">
+        <p class="eyebrow">02 — Selected work</p>
+        <h2 class="section__title section__title--lead" id="work-title">Things I've built &amp; shipped.</h2>
+        <div class="projects" id="projects"></div>
+        <p class="work__note">
+          More on <a href="https://github.com/RifatAnwarRobin" target="_blank" rel="noopener">GitHub&nbsp;↗</a>
+          and <a href="https://pypi.org/user/rifat-anwar/" target="_blank" rel="noopener">PyPI&nbsp;↗</a>.
+        </p>
+      </div>
     </section>
 
-    <section id="contact" style='margin:0;padding:50px;'>
-        <div class="container">
-            <div class="contact">
-                <p class="contact-title">What's Next?</p>
-                <h2 class="contact-heading">Get In Touch</h2>
-                <p class="contact-text">
-                    I'm currently looking for new opportunities. Whether you have a question or just want to say hi, 
-                    I'll do my best to get back to you!
-                </p>
-                <a href="mailto:rifatanwarrobin@gmail.com" class="cta-button">Say Hello</a>
-            </div>
-        </div>
+    <!-- ───────────────────────── Experience ───────────────────────── -->
+    <section class="section" id="experience" aria-labelledby="exp-title">
+      <div class="wrap">
+        <p class="eyebrow">03 — Experience</p>
+        <h2 class="section__title section__title--lead" id="exp-title">Where I've worked.</h2>
+        <div class="timeline" id="timeline"></div>
+      </div>
     </section>
 
-    <!-- Footer -->
-    <footer style='margin:0;padding:50px;'>
-        <div class="container">
-            <ul class="social-links">
-                <li><a href="https://github.com/RifatAnwarRobin" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a></li>
-                <li><a href="https://linkedin.com/in/rifat-anwar-robin" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
-                <li><a href="https://share.streamlit.io/user/rifatanwarrobin" target="_blank" aria-label="Streamlit">
-                    <svg width="25" height="25" fill="none" xmlns="http://www.w3.org/2000/svg" alt="Streamlit" viewBox="0 0 300 50" class="max-h-5 w-auto relative" style="top:-1px"><path d="m150.731 101.547-52.592-27.8-91.292-48.25c-.084-.083-.25-.083-.334-.083-3.333-1.584-6.75 1.75-5.5 5.083L47.53 149.139l.008.025c.05.117.092.233.142.35 1.909 4.425 6.075 7.158 10.609 8.233.383.084.657.159 1.117.251.459.102 1.1.241 1.65.283.09.008.174.008.266.016h.067c.066.009.133.009.2.017h.091c.059.008.125.008.184.008h.108c.067.009.133.009.2.009a817.728 817.728 0 0 0 177.259 0c.708 0 1.4-.034 2.066-.1l.634-.075c.025-.009.058-.009.083-.017.142-.017.283-.042.425-.067.208-.025.417-.066.625-.108.417-.092.606-.158 1.172-.353.565-.194 1.504-.534 2.091-.817.588-.283.995-.555 1.487-.863a26.566 26.566 0 0 0 1.774-1.216c.253-.194.426-.318.609-.493l-.1-.058-99.566-52.617Z" fill="#FF4B4B"></path><path d="M294.766 25.498h-.083l-91.326 48.25 50.767 75.609 46.4-118.859v-.167c1.167-3.5-2.416-6.666-5.758-4.833" fill="#7D353B"></path><path d="M155.598 2.556c-2.334-3.409-7.417-3.409-9.667 0L98.139 73.748l52.592 27.8 99.667 52.674c.626-.613 1.128-1.21 1.658-1.841a20.98 20.98 0 0 0 2.067-3.025l-50.767-75.608-47.758-71.192Z" fill="#BD4043"></path></svg>
-                </a></li>
-                <li><a href="https://pypi.org/user/rifat-anwar/" target="_blank" aria-label="Pypi"><i class="fab fa-python"></i></a></li>
-            </ul>
-            <p class="footer-text">
-                Designed & Built by Rifat Anwar
-                <br>
-                Last Updated: <span id="lastUpdated">2025-04-26 12:06:36 UTC</span>
-            </p>
-        </div>
-    </footer>
+    <!-- ───────────────────────── Education ───────────────────────── -->
+    <section class="section section--alt" id="education" aria-labelledby="edu-title">
+      <div class="wrap">
+        <p class="eyebrow">04 — Education</p>
+        <h2 class="section__title section__title--lead" id="edu-title">Education.</h2>
+        <div class="education" id="education-list"></div>
+      </div>
+    </section>
 
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script type="module" src="config.js"></script>
-    <script type="module" src="main.js"></script>
+    <!-- ───────────────────────── Contact ───────────────────────── -->
+    <section class="section contact" id="contact" aria-labelledby="contact-title">
+      <div class="wrap contact__inner">
+        <p class="eyebrow">05 — Contact</p>
+        <h2 class="section__title section__title--lead" id="contact-title">Let's talk.</h2>
+        <p class="contact__text">
+          I'm open to AI/ML and backend engineering roles in the UK, and happy to talk through
+          a problem or a project. The fastest way to reach me is email.
+        </p>
+        <a class="btn btn--solid btn--lg" href="mailto:rifatanwarrobin@gmail.com">rifatanwarrobin@gmail.com</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- ───────────────────────── Footer ───────────────────────── -->
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <span class="footer__name">Rifat Anwar</span>
+      <ul class="footer__links" aria-label="Profiles">
+        <li><a href="https://github.com/RifatAnwarRobin" target="_blank" rel="noopener">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/rifat-anwar-robin/" target="_blank" rel="noopener">LinkedIn</a></li>
+        <li><a href="https://pypi.org/user/rifat-anwar/" target="_blank" rel="noopener">PyPI</a></li>
+        <li><a href="https://share.streamlit.io/user/rifatanwarrobin" target="_blank" rel="noopener">Streamlit</a></li>
+      </ul>
+      <span class="footer__year" id="year"></span>
+    </div>
+  </footer>
+
+  <script type="module" src="assets/js/main.js"></script>
 </body>
 </html>
