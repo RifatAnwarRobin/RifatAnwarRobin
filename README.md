@@ -15,8 +15,8 @@ I’m a passionate Odoo developer with over 3 years of experience working at **M
 
 I consider myself a **full-stack developer**, proficient in technologies such as:
 - **Frontend**: XML, QWeb, HTML, CSS, SASS, JavaScript, OWL, Reactpy, PHP
-- **Backend & Platform**: Python, Odoo, JavaScript, Django, FastAPI, XMLRPC
-- **Data Science & ML**: Has experience with PowerBI. Passionate about data-driven solutions, currently building a **recommendation systems** using machine learning.
+- **Backend & Platform**: Python, Odoo, JavaScript, Django, FastAPI, XMLRPC, Streamlit
+- **Data Science & ML**: Has experience with Pandas, Numpy, Scikit-learn. Passionate about data-driven solutions, continuously searching new ideas to make things easy for industries using machine learning and AI.
 - **Automation & Exploration**: Always looking for creative ideas related to **automation using Python** and love experimenting with innovative solutions.
 
 #### I have a creative edge in **UI/UX design**, leveraging tools like **Adobe XD** for intuitive user experiences and mastering graphic design with **Adobe Photoshop**, **Illustrator**, and **Premiere Pro**.
