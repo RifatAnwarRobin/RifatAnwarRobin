@@ -81,7 +81,7 @@
   </tr>
 </table>
 
-## Contributions
+<!-- ## Contributions
 
 <p align="center">
   <picture>
@@ -90,3 +90,4 @@
     <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/RifatAnwarRobin/RifatAnwarRobin/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
 </p>
+-->
