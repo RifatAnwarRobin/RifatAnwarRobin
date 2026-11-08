@@ -57,8 +57,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/RifatAnwarRobin/Movie-Recommendation-System">
-        <img src="assets/card-recommender.svg" alt="Movie Recommendation System" width="420" />
+      <a href="https://github.com/RifatAnwarRobin/Ai_interview_agent">
+        <img src="assets/card-interview-agent.svg" alt="Ai_interview_agent" width="420" />
       </a>
     </td>
     <td>
@@ -67,7 +67,26 @@
       </a>
     </td>
   </tr>
+
   <tr>
+    <td>
+      <a href="https://github.com/RifatAnwarRobin/Movie-Recommendation-System">
+        <img src="assets/card-recommender.svg" alt="Movie Recommendation System" width="420" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/RifatAnwarRobin/Text_mining_and_Sentiment_analysis_on_Amazon_product_Reviews">
+        <img src="assets/card-sentiment-analysis.svg" alt="Text_mining_and_Sentiment_analysis_on_Amazon_product_Reviews" width="420" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/RifatAnwarRobin/the_legacy_tree">
+        <img src="assets/card-legacy-tree.svg" alt="The_legacy_tree" width="420" />
+      </a>
+    </td>
     <td>
       <a href="https://github.com/RifatAnwarRobin/num2words-BD-INR">
         <img src="assets/card-num2words.svg" alt="num2words-BD-INR" width="420" />

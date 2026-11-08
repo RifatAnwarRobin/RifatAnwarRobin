@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="172" viewBox="0 0 420 172" role="img" aria-label="The Legacy Tree">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2027"/><stop offset="0.5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/></linearGradient></defs>
+<rect width="420" height="172" rx="12" fill="url(#bg)"/>
+<text x="22" y="40" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">The Legacy Tree</text>
+<text x="22" y="68" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe3ea">Management system that keeps family trees and</text>
+<text x="22" y="88" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe3ea">histories alive for the next generation, with</text>
+<text x="22" y="108" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe3ea">user-defined rules.</text>
+<rect x="22" y="128" width="64" height="26" rx="13" fill="#ffffff" fill-opacity="0.14"/>
+<text x="54.0" y="146" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12" fill="#ffffff">Python</text>
+</svg>
