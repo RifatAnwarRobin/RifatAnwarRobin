@@ -83,16 +83,18 @@
 
   <tr>
     <td>
-      <a href="https://github.com/RifatAnwarRobin/the_legacy_tree">
-        <img src="assets/card-legacy-tree.svg" alt="The_legacy_tree" width="420" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/RifatAnwarRobin/num2words-BD-INR">
         <img src="assets/card-num2words.svg" alt="num2words-BD-INR" width="420" />
       </a>
     </td>
     <td>
+      <a href="https://github.com/RifatAnwarRobin/the_legacy_tree">
+        <img src="assets/card-legacy-tree.svg" alt="The_legacy_tree" width="420" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+  	<td>
       <a href="https://github.com/RifatAnwarRobin/image_background_remover">
         <img src="assets/card-background-remover.svg" alt="Image Background Remover" width="420" />
       </a>
