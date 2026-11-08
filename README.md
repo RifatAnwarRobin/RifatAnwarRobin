@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rifat%20Anwar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20%26%20ML%20Engineer%20%7C%20Python%20%7C%20Backend%20Systems&descAlignY=58&descSize=18" alt="Rifat Anwar banner" />
+  <img src="assets/banner.svg" alt="Rifat Anwar, Data and ML Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -8,9 +8,8 @@
   </a>
 </p>
 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/rifat-anwar-robin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rifat-anwar-robin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://rifatanwarrobin.github.io/RifatAnwarRobin"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
   <a href="https://pypi.org/user/rifat-anwar"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
   <a href="https://share.streamlit.io/user/rifatanwarrobin"><img src="https://img.shields.io/badge/Streamlit_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit apps" /></a>
@@ -18,7 +17,7 @@
 
 ---
 
-## 👋 About me
+## About me
 
 - **MSc Artificial Intelligence Technology**, Northumbria University London (2026)
 - **3+ years as Senior Python (Odoo) Developer** at Metamorphosis Ltd, building custom ERP modules in Python and PostgreSQL
@@ -32,14 +31,16 @@
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,mysql,js,bash,git,github,githubactions,linux&perline=11" alt="Engineering tools" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,mysql,js,bash,git,github,linux,sklearn&perline=11" alt="Engineering and ML tools" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,streamlit&perline=11" alt="Data and ML tools" />
-  <br />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
 </p>
 
 ## Experience
@@ -51,53 +52,40 @@
 
 **Education:** MSc Artificial Intelligence Technology, Northumbria University London (2025–2026) · BSc Computer Science and Engineering, Daffodil International University (2021, CGPA 3.53 / 4.00)
 
-
 ## Featured projects
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/RifatAnwarRobin/Movie-Recommendation-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RifatAnwarRobin&repo=Movie-Recommendation-System&theme=transparent&hide_border=true" alt="Movie Recommendation System" />
+        <img src="assets/card-recommender.svg" alt="Movie Recommendation System" width="420" />
       </a>
     </td>
     <td>
       <a href="https://github.com/RifatAnwarRobin/Urban_Wildlife_Corridor_Identification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RifatAnwarRobin&repo=Urban_Wildlife_Corridor_Identification&theme=transparent&hide_border=true" alt="MSc dissertation" />
+        <img src="assets/card-dissertation.svg" alt="MSc Dissertation: ML Pipeline" width="420" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/RifatAnwarRobin/num2words-BD-INR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RifatAnwarRobin&repo=num2words-BD-INR&theme=transparent&hide_border=true" alt="num2words-BD-INR" />
+        <img src="assets/card-num2words.svg" alt="num2words-BD-INR" width="420" />
       </a>
     </td>
     <td>
       <a href="https://github.com/RifatAnwarRobin/image_background_remover">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RifatAnwarRobin&repo=image_background_remover&theme=transparent&hide_border=true" alt="Background remover" />
+        <img src="assets/card-background-remover.svg" alt="Image Background Remover" width="420" />
       </a>
     </td>
   </tr>
 </table>
 
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RifatAnwarRobin&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatAnwarRobin&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" alt="Top languages" />
-</p>
-
-<!-- Contribution snake, generated daily by .github/workflows/snake.yml -->
+<!-- Contribution snake, generated by .github/workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifatAnwarRobin/RifatAnwarRobin/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RifatAnwarRobin/RifatAnwarRobin/output/github-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/RifatAnwarRobin/RifatAnwarRobin/output/github-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" />
 </p>
